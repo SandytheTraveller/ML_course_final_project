@@ -1,2 +1,2 @@
-# ML_course_final_project
-Final project for the Machine Learning course at the university.
+# Tropical Cyclones classification project
+Classification of the types of tropical cyclone based on the official data.
